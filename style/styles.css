@@ -1,0 +1,155 @@
+/* Style Here */
+
+header 
+{
+    background: url(../images/pokemonBackground.jpg);
+    background-color: white;
+    margin: -40px;
+    margin-bottom: 40px;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+header img
+{
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: auto;
+}
+
+.widgets
+{
+    text-align: center;
+    margin: 2rem;
+    font-size: 2em;
+}
+
+.result
+{
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgb(0, 0, 0, 0.2);
+    text-align: center;
+    width: 150px;
+}
+
+.container
+{
+    background-color: #f0f0f0;
+    padding: 40px;
+    box-shadow: 0 4px 10px rgb(0, 0, 0, 10);
+    width: 80%;
+    max-width: 800px;
+    max-height: 90vh;
+    overflow-y: auto;
+    text-align: center;
+    border: 2px solid #222224;
+    text-decoration-color: #222224;
+}
+
+body
+{
+    background-color: #ee1515;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+#searchterm 
+{
+    padding: 4px;
+    font-size: 1.2rem;
+    border-top: 3px solid #ee1515;
+    border-bottom: 3px solid #f0f0f0;
+    border-left: 3px solid #222224;
+    border-right: 3px solid #ee1515;
+    border-bottom: 3px solid #222224;
+}
+
+#searchterm:focus
+{
+    border-color: #ee1515;
+    box-shadow: 0 0 5px #ee1515;
+    outline: none;
+}
+
+select 
+{
+    padding: 4px;
+    font-size: 1.2rem;
+    border-top: 3px solid #ee1515;
+    border-bottom: 3px solid #f0f0f0;
+    border-left: 3px solid #222224;
+    border-right: 3px solid #ee1515;
+    border-bottom: 3px solid #222224;
+}
+
+select:focus
+{
+    border-color: #ee1515;
+    box-shadow: 0 0 5px #ee1515;
+    outline: none;
+}
+
+#prevButton
+{
+    padding: 2px;
+    font-size: 1.1rem;
+    border-top: 3px solid #ee1515;
+    border-bottom: 3px solid #f0f0f0;
+    border-left: 3px solid #222224;
+    border-right: 3px solid #ee1515;
+    border-bottom: 3px solid #222224;
+}
+
+#prevButton:focus
+{
+    border-color: #ee1515;
+    box-shadow: 0 0 5px #ee1515;
+    outline: none;
+}
+
+#nextButton
+{
+    padding: 2px;
+    font-size: 1.1rem;
+    border-top: 3px solid #ee1515;
+    border-bottom: 3px solid #f0f0f0;
+    border-left: 3px solid #222224;
+    border-right: 3px solid #ee1515;
+    border-bottom: 3px solid #222224;
+}
+
+#nextButton:focus
+{
+    border-color: #ee1515;
+    box-shadow: 0 0 5px #ee1515;
+    outline: none;
+}
+
+#search
+{
+    width: 300px;
+    height: 200px;
+    background-image: url("../images/Poké_Ball_icon.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+p 
+{
+    font-size: 1.1rem;
+}
