@@ -10,8 +10,17 @@ A solo-built web application that lets users search and filter the full roster o
 
 ---
 
-> **Fill in —** Add a screenshot or short GIF here — for a responsive UI project, showing the desktop and mobile layouts side by side makes a strong impression. Drop the file in a `/screenshots` folder and reference it:
-> `![Pokémon Picker interface](screenshots/interface.png)`
+<p aign="center">
+  <img src="screenshots/PokemonPicker1.png" width="500">
+</p>
+
+<p aign="center">
+  <img src="screenshots/PokemonPicker2.png" width="500">
+</p>
+
+<p aign="center">
+  <img src="screenshots/PokemonPicker3.png" width="500">
+</p>
 
 ---
 
