@@ -10,15 +10,15 @@ A solo-built web application that lets users search and filter the full roster o
 
 ---
 
-<p aign="center">
+<p align="center">
   <img src="screenshots/PokemonPicker1.png" width="500">
 </p>
 
-<p aign="center">
+<p align="center">
   <img src="screenshots/PokemonPicker2.png" width="500">
 </p>
 
-<p aign="center">
+<p align="center">
   <img src="screenshots/PokemonPicker3.png" width="500">
 </p>
 
